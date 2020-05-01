@@ -16,7 +16,7 @@ public class Solution {
 }
 
 
- //or//
+ /*  you can also use this code
 
 package com.company;
 import java.util.*;
@@ -45,3 +45,4 @@ public class Main {
 
     }
 }
+*/
