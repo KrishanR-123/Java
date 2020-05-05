@@ -48,6 +48,7 @@ public class Solution {
                     continue intCheck;
                 }
             }
+            
             integersBetween++;
         }
         System.out.println(integersBetween);
