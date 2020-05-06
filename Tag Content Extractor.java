@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/* Solution assumes we can't have the symbol "<" as text between tags */
+
 public class Solution{
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
