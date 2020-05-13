@@ -1,3 +1,5 @@
+package com.company;
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
