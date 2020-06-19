@@ -1,9 +1,6 @@
 import java.util.Scanner;
 
-/**
- * @author Kanahaiya Gupta
- *
- */
+
 public class DrawingBook {
 
     static int pageCount(int n, int p) {
