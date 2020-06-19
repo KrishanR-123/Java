@@ -12,5 +12,13 @@ public class DrawingBook {
         return Math.min(targetPageTurnCountFromFront, targetPageTurnCountFromBack);
 
     }
+      public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int n = in.nextInt();
+        int p = in.nextInt();
+        System.out.println(pageCount(n, p));
+        in.close();
+    }
+}
 
   
